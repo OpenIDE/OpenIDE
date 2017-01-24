@@ -1,6 +1,6 @@
 {
     "projects": [
         "OpenIDE",
-        "MyvarUI"
+        "../MyvarUI"
     ]
 }

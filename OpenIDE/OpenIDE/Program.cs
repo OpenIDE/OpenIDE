@@ -13,7 +13,8 @@ namespace OpenIDE
             Form f = new Form();
             f.Show();
 
-            
+            //Init Gui setup
+
 
             while(true)
             {
