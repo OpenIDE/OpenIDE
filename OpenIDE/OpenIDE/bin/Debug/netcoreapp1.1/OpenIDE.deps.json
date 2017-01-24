@@ -1,0 +1,47 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v1.1",
+    "signature": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v1.1": {
+      "OpenIDE/1.0.0": {
+        "dependencies": {
+          "MyvarUI": "1.0.0",
+          "OpenIDE.Contracts": "1.0.0"
+        },
+        "runtime": {
+          "OpenIDE.dll": {}
+        }
+      },
+      "MyvarUI/1.0.0": {
+        "runtime": {
+          "MyvarUI.dll": {}
+        }
+      },
+      "OpenIDE.Contracts/1.0.0": {
+        "runtime": {
+          "OpenIDE.Contracts.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "OpenIDE/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MyvarUI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "OpenIDE.Contracts/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

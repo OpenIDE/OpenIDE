@@ -5,8 +5,8 @@
     "emitEntryPoint": true
   },
   "dependencies": {
-    "Src":"1.0.0-*", /* This is tecnicaly MyvarUI */
-    "OpenIDE.Contracts" : "1.0.0-*"
+    "MyvarUI":"*", /* This is tecnicaly MyvarUI */
+    "OpenIDE.Contracts" : "*"
   },
   "frameworks": {
     "netcoreapp1.1": {
