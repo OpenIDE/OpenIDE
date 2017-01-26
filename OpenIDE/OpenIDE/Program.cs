@@ -2,7 +2,9 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using MyvarUI;
 using MyvarUI.Window;
+using OpenIDE.Forms;
 
 namespace OpenIDE
 {
@@ -10,11 +12,8 @@ namespace OpenIDE
     {
         public static void Main(string[] args)
         {
-            Form f = new Form();
+            Form f = new MainForm();
             f.Show();
-
-            //Init Gui setup
-
 
             while(true)
             {

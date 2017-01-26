@@ -87,7 +87,8 @@
 --reference:/home/myvar/.nuget/packages/System.Threading.Timer/4.3.0/ref/netstandard1.2/System.Threading.Timer.dll
 --reference:/home/myvar/.nuget/packages/System.Xml.ReaderWriter/4.3.0/ref/netstandard1.3/System.Xml.ReaderWriter.dll
 --reference:/home/myvar/.nuget/packages/System.Xml.XDocument/4.3.0/ref/netstandard1.3/System.Xml.XDocument.dll
---reference:/home/myvar/Desktop/GitHub/OpenIDE/MyvarUI/MyvarUI/bin/Debug/netcoreapp1.1/MyvarUI.dll
+--reference:/home/myvar/Desktop/GitHub/MyvarUI/MyvarUI/bin/Debug/netcoreapp1.1/MyvarUI.dll
 --reference:/home/myvar/Desktop/GitHub/OpenIDE/OpenIDE/OpenIDE.Contracts/bin/Debug/netstandard1.6/OpenIDE.Contracts.dll
 /home/myvar/Desktop/GitHub/OpenIDE/OpenIDE/OpenIDE/Program.cs
 /home/myvar/Desktop/GitHub/OpenIDE/OpenIDE/OpenIDE/Properties/AssemblyInfo.cs
+/home/myvar/Desktop/GitHub/OpenIDE/OpenIDE/OpenIDE/Forms/MainForm.cs

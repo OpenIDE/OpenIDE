@@ -6988,7 +6988,7 @@
     },
     "MyvarUI/1.0.0": {
       "type": "project",
-      "path": "../../MyvarUI/MyvarUI/project.json"
+      "path": "../../../MyvarUI/MyvarUI/project.json"
     },
     "OpenIDE.Contracts/1.0.0": {
       "type": "project",
